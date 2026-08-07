@@ -84,9 +84,7 @@
 - Gemini AI
 ## 📈 GitHub Stats
 
-![Kamlesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamlesh7652&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamlesh7652&layout=compact&theme=tokyonight)
+My GitHub profile showcases my contributions, open-source projects, and continuous learning in Full Stack Development.
 
 ---
 
